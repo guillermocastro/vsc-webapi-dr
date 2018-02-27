@@ -1,0 +1,10 @@
+H:\dev\vsc-webapi-dr\bin\Debug\netcoreapp2.0\vsc-webapi-dr.deps.json
+H:\dev\vsc-webapi-dr\bin\Debug\netcoreapp2.0\vsc-webapi-dr.runtimeconfig.json
+H:\dev\vsc-webapi-dr\bin\Debug\netcoreapp2.0\vsc-webapi-dr.runtimeconfig.dev.json
+H:\dev\vsc-webapi-dr\bin\Debug\netcoreapp2.0\vsc-webapi-dr.dll
+H:\dev\vsc-webapi-dr\bin\Debug\netcoreapp2.0\vsc-webapi-dr.pdb
+H:\dev\vsc-webapi-dr\obj\Debug\netcoreapp2.0\vsc-webapi-dr.csproj.CoreCompileInputs.cache
+H:\dev\vsc-webapi-dr\obj\Debug\netcoreapp2.0\vsc-webapi-dr.AssemblyInfoInputs.cache
+H:\dev\vsc-webapi-dr\obj\Debug\netcoreapp2.0\vsc-webapi-dr.AssemblyInfo.cs
+H:\dev\vsc-webapi-dr\obj\Debug\netcoreapp2.0\vsc-webapi-dr.dll
+H:\dev\vsc-webapi-dr\obj\Debug\netcoreapp2.0\vsc-webapi-dr.pdb
